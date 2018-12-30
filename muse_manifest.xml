@@ -1,0 +1,28 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zarobotokonline.github.io" resolutions="1x" timestamp="1546194183102">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="250536062" ref="index"/>
+    <file name="youpoluchitcod.css" crc="4114633523" ref="youpoluchitcod"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:youpoluchitcod"/>
+    <file name="museutils.js" crc="340535759" ref="index:youpoluchitcod"/>
+    <file name="whatinput.js" crc="86476730" ref="index:youpoluchitcod"/>
+    <file name="museconfig.js" crc="310584261" ref="index:youpoluchitcod"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:youpoluchitcod"/>
+    <file name="require.js" crc="7928878" ref="index:youpoluchitcod"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:youpoluchitcod"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:youpoluchitcod"/>
+    <file name="kokteli-5120x2880-bakardi-led-mango-myata-760-u107-fr.jpg" crc="264450425" ref="index"/>
+    <file name="1473488575_27.jpg" crc="388959126" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kokteli-5120x2880-bakardi-led-mango-myata-760.jpg" crc="4274425487" ref="youpoluchitcod">
+      <caption webpage="youpoluchitcod" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4180383705" seo="true" mt="1546194130248" redirect="true"/>
+  <file name="youpoluchitcod.html" crc="3966012499" seo="true" mt="1546194130249" redirect="true"/>
+</manifest>
