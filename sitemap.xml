@@ -12,4 +12,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>http://zarobotokonline.github.io/assets/%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82.txt</loc>
+    <lastmod>2018-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>

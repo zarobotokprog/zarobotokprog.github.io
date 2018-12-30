@@ -1,4 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zarobotokonline.github.io" resolutions="1x" timestamp="1546194183102">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zarobotokonline.github.io" resolutions="1x" timestamp="1546194557933">
+  <folder name="assets">
+    <file name="секрет.txt" crc="3935463889" seo="true" mt="1546194500000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="250536062" ref="index"/>
@@ -24,5 +27,5 @@
     </file>
   </folder>
   <file name="index.html" crc="4180383705" seo="true" mt="1546194130248" redirect="true"/>
-  <file name="youpoluchitcod.html" crc="3966012499" seo="true" mt="1546194130249" redirect="true"/>
+  <file name="youpoluchitcod.html" crc="55806071" seo="true" mt="1546194529492" redirect="true"/>
 </manifest>
