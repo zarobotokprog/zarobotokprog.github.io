@@ -1,31 +1,34 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zarobotokonline.github.io" resolutions="1x" timestamp="1546194744020">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.sekret.com" resolutions="1x" timestamp="1546281302615">
   <folder name="assets">
-    <file name="секрет.txt" crc="3956024209" seo="true" mt="1546194737000"/>
+    <file name="секрет-легкого-заработка.png" crc="4065094716" seo="true" mt="1546279962000"/>
+    <file name="yes.jpg" crc="3936667212" seo="true" mt="1546280195000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="250536062" ref="index"/>
-    <file name="youpoluchitcod.css" crc="4114633523" ref="youpoluchitcod"/>
+    <file name="index.css" crc="3957053570" ref="index"/>
+    <file name="yes.css" crc="241586958" ref="yes"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:youpoluchitcod"/>
-    <file name="museutils.js" crc="340535759" ref="index:youpoluchitcod"/>
-    <file name="whatinput.js" crc="86476730" ref="index:youpoluchitcod"/>
-    <file name="museconfig.js" crc="310584261" ref="index:youpoluchitcod"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:youpoluchitcod"/>
-    <file name="require.js" crc="7928878" ref="index:youpoluchitcod"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:youpoluchitcod"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:yes"/>
+    <file name="museutils.js" crc="340535759" ref="index:yes"/>
+    <file name="whatinput.js" crc="86476730" ref="index:yes"/>
+    <file name="museconfig.js" crc="310584261" ref="index:yes"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:yes"/>
+    <file name="require.js" crc="7928878" ref="index:yes"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:yes"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:youpoluchitcod"/>
-    <file name="kokteli-5120x2880-bakardi-led-mango-myata-760-u107-fr.jpg" crc="264450425" ref="index"/>
-    <file name="1473488575_27.jpg" crc="388959126" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:yes"/>
+    <file name="kokteli-5120x2880-bakardi-led-mango-myata-760.jpg" crc="412863936" ref="index:yes">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="kokteli-5120x2880-bakardi-led-mango-myata-760.jpg" crc="4274425487" ref="youpoluchitcod">
+      <caption webpage="yes" alt=""/>
       <caption webpage="youpoluchitcod" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4180383705" seo="true" mt="1546194130248" redirect="true"/>
-  <file name="youpoluchitcod.html" crc="55806071" seo="true" mt="1546194529492" redirect="true"/>
+  <file name="index.html" crc="36956332" seo="true" mt="1546281143615" redirect="true"/>
+  <file name="yes.html" crc="4134139773" seo="true" mt="1546280319393" redirect="true"/>
 </manifest>
