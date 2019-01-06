@@ -1,34 +1,22 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.sekret.com" resolutions="1x" timestamp="1546281302615">
-  <folder name="assets">
-    <file name="секрет-легкого-заработка.png" crc="4065094716" seo="true" mt="1546279962000"/>
-    <file name="yes.jpg" crc="3936667212" seo="true" mt="1546280195000"/>
-  </folder>
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anonist.com" resolutions="1x" timestamp="1546787877197">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3957053570" ref="index"/>
-    <file name="yes.css" crc="241586958" ref="yes"/>
+    <file name="index.css" crc="339898769" ref="index"/>
+    <file name="spasiobo-sa-sosaty-ebites.css" crc="38965414" ref="spasiobo-sa-sosaty-ebites"/>
+    <file name="sosatsia-ebatcia.css" crc="379016932" ref="sosatsia-ebatcia"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:yes"/>
-    <file name="museutils.js" crc="340535759" ref="index:yes"/>
-    <file name="whatinput.js" crc="86476730" ref="index:yes"/>
-    <file name="museconfig.js" crc="310584261" ref="index:yes"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:yes"/>
-    <file name="require.js" crc="7928878" ref="index:yes"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:yes"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:spasiobo-sa-sosaty-ebites:sosatsia-ebatcia"/>
+    <file name="museutils.js" crc="340535759" ref="index:spasiobo-sa-sosaty-ebites:sosatsia-ebatcia"/>
+    <file name="whatinput.js" crc="86476730" ref="index:spasiobo-sa-sosaty-ebites:sosatsia-ebatcia"/>
+    <file name="museconfig.js" crc="310584261" ref="index:spasiobo-sa-sosaty-ebites:sosatsia-ebatcia"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:spasiobo-sa-sosaty-ebites:sosatsia-ebatcia"/>
+    <file name="require.js" crc="7928878" ref="index:spasiobo-sa-sosaty-ebites:sosatsia-ebatcia"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:yes"/>
-    <file name="kokteli-5120x2880-bakardi-led-mango-myata-760.jpg" crc="412863936" ref="index:yes">
-      <caption webpage="index" alt=""/>
-      <caption webpage="yes" alt=""/>
-      <caption webpage="youpoluchitcod" alt=""/>
-    </file>
+    <file name="blank.gif" crc="4208392903" ref="spasiobo-sa-sosaty-ebites"/>
   </folder>
-  <file name="index.html" crc="36956332" seo="true" mt="1546281143615" redirect="true"/>
-  <file name="yes.html" crc="4134139773" seo="true" mt="1546280319393" redirect="true"/>
+  <file name="index.html" crc="216104642" seo="true" mt="1546787326446" redirect="true"/>
+  <file name="spasiobo-sa-sosaty-ebites.html" crc="251436691" seo="true" mt="1546787871200" redirect="true"/>
+  <file name="sosatsia-ebatcia.html" crc="249467928" seo="true" mt="1546787744696" redirect="true"/>
 </manifest>
